@@ -1,0 +1,3 @@
+Mniejszych od 1000: 12
+przedostatnia: 540
+ostatnia: 633
