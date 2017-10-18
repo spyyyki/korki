@@ -19,7 +19,7 @@ void dodaj(int * tablica, int * rozmiar) {
 		cout << "2\n";
 		for(int i = 0; i < (*rozmiar); i++) {
 			cout << "----";
-			int a = *(tablica+i);
+			int a = tablica[i];
 			cout << "----";
 			tablica_temp[i] = a;
 			cout << "----";
